@@ -371,15 +371,17 @@
           <div class="grid">
             <div class="tile">
               <h3><span class="icon">✨</span> Why you</h3>
-              <p id="reason1">Destiny, even the simplest days feel special when I’m with you just knowing I get to share time and moments with you gives me something to look forward to.</p>
+              <p id="reason1">Why you? Even the simplest days feel more meaningful when I’m with you. Just knowing I get to spend time with you, talk with you, and share moments together gives me something to look forward to. You bring a sense of happiness and peace into my life that I never want to take for granted.
+</p>
             </div>
             <div class="tile">
               <h3><span class="icon">🫶</span> My favorite thing</h3>
-              <p id="reason2">I admire how deeply you care about your goals and dreams, and it means even more to me that you still make time for the people you love along the way.</p>
+              <p id="reason2">My favorite thing about you Destiny is how deeply you care about your goals and dreams. You go after what you want with so much focus and heart, yet you still make time for the people you love along the way. That balance says so much about the kind of person you are, and it’s one of the many reasons I admire you.
+</p>
             </div>
             <div class="tile">
               <h3><span class="icon">📍</span> Our vibe</h3>
-              <p id="reason3">I admire, Destiny, how you chase your dreams with unwavering determination, yet still pour so much love and care into the people around you. This balance reveals not only the strength of your heart but also the depth of your ambition.</p>
+              <p id="reason3">Our vibe Destiny, is warm, genuine, and full of laughter, the kind of connection that makes even the simplest moments feel special. We support each other, grow together, and bring peace into each other’s lives without even trying. Being with you feels natural, safe, and exciting all at once, and that’s what makes what we have so meaningful.</p>
             </div>
             <div class="tile">
               <h3><span class="icon">🌹</span> Today’s mission</h3>
