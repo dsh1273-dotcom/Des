@@ -398,8 +398,8 @@
               <p class="question">Quick warm-up 🥰</p>
               <p class="hint">Before the question… choose the option that describes us best.</p>
               <div class="btnRow">
-                <button class="ghost tiny" onclick="pick('Soulmates energy 💫')">Soulmates energy 💫</button>
-                <button class="ghost tiny" onclick="pick('Best friends + more 😏')">Best friends + more 😏</button>
+                <button class="ghost tiny" onclick="pick('Soulmates 💫')">Soulmates 💫</button>
+                <button class="ghost tiny" onclick="pick('The Power Couple 🫂 ')">The Power Couple 🫂 </button>
                 <button class="ghost tiny" onclick="pick('The cutest duo 🤍')">The cutest duo 🤍</button>
               </div>
               <div class="divider"></div>
