@@ -371,15 +371,15 @@
           <div class="grid">
             <div class="tile">
               <h3><span class="icon">✨</span> Why you</h3>
-              <p id="reason1">You make ordinary days feel like something I actually look forward to.</p>
+              <p id="reason1">Destiny, even the simplest days feel special when I’m with you just knowing I get to share time and moments with you gives me something to look forward to.</p>
             </div>
             <div class="tile">
               <h3><span class="icon">🫶</span> My favorite thing</h3>
-              <p id="reason2">The way you care about your goals and still make time for the people you love inspires me.</p>
+              <p id="reason2">I admire how deeply you care about your goals and dreams, and it means even more to me that you still make time for the people you love along the way.</p>
             </div>
             <div class="tile">
               <h3><span class="icon">📍</span> Our vibe</h3>
-              <p id="reason3">I can be completely myself around you, and that’s the best feeling in the world.</p>
+              <p id="reason3">I admire, Destiny, how you chase your dreams with unwavering determination, yet still pour so much love and care into the people around you. This balance reveals not only the strength of your heart but also the depth of your ambition.</p>
             </div>
             <div class="tile">
               <h3><span class="icon">🌹</span> Today’s mission</h3>
