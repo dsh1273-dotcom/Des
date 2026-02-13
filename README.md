@@ -442,7 +442,7 @@
               <div class="big">
                 <p class="ask">AYEEE THAT’S MY VALENTINE 💞</p>
                 <p class="hint" id="finalLine">
-                  Now come here so I can give you the biggest hug, Destiny 💞
+                  Reservations at Estampa Gaucha Brazilian Steakhouse for Sun, Feb 15 at 5:00pm💞
                 </p>
                 <div class="btnRow" style="justify-content:center">
                   <button class="primary" onclick="burst()">Celebrate 🎉</button>
